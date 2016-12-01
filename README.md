@@ -24,6 +24,7 @@ To manually install frappe/erpnext here are the steps
 - Nodejs
 - Redis
 - wkhtmltopdf with patched Qt (for pdf generation)
+- libmysqlclient (sudo apt-get install libmysqlclient-dev)
 
 #### 2. Install Bench
 
